@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
-**Advanced In-Game Memory Editor & Trainer System**
+**Advanced Trainer
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Configuration](#-configuration) • [FAQ](#-faq)
 
