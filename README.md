@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.14-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
