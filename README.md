@@ -30,6 +30,6 @@
 ## ⬇️ Installation
 
 1. **Download** the latest release from the [Releases](https://github.com/MrSmoqDev/Game_Utility/releases) page.
-2. **Extract** the downloaded `.zip` file to a folder of your choice.
-3. **Run as Administrator**: Right-click `Game_Utility.exe` and select **"Run as administrator"**.  
+2. **Extract** the downloaded `.exe` file to a folder of your choice.
+3. **Run as Administrator**: Right-click `Game_Utility_***.exe` and select **"Run as administrator"**.  
    *(⚠️ This is strictly required for the tool to access game memory).*
